@@ -10,6 +10,8 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+//Este es la clase Prodcuto
+
 @Entity
 @Table(name = "productos")
 public class Producto {
