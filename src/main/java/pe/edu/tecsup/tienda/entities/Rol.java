@@ -7,6 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+//clase que  representa Rol
 @Entity
 @Table(name = "roles")
 public class Rol {
